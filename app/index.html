@@ -10,7 +10,7 @@
   <meta charset="utf-8">
   <meta charset="ISO-8859-1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>My AngularJS App</title>
+  <title>XNBA | LiveGame </title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -82,11 +82,13 @@
   <div class="container" ng-controller="GlobalController as global" >
 
 
-      <div class="row ">
-        <div class="col-md-6 pull-left">
-            <h1>Bienvenido Some Chenges Over Here <a ng-bind="nomb"></a> </h1>
-
-            Quien eres?
+      <div class="row">
+        <div class="col-md-6 pull-left panel" >
+          <div class="panel-heading">
+            <h1>Bienvenido  <a ng-bind="nomb"></a> </h1>
+          </div>
+          <div class="panel-body">
+           <h2> Quien eres?</h2>
             <input class="form-control" ng-model="nomb">
             <hr>
             <div class="text-center">
@@ -94,6 +96,7 @@
               <button class="btn btn-warning btn-lg">Registrarme</button>
             </div>
           <hr>
+          </div>
 
         </div>
 
