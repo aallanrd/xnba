@@ -1,11 +1,10 @@
 [![Stories in Ready](https://badge.waffle.io/devaallanrd/xnba.png?label=ready&title=Ready)](https://waffle.io/devaallanrd/xnba)
 # xnba
 
-<snippet>
   <content><![CDATA[
-# XNBA | LiveGame Alpha-0.1.1}
+# XNBA | LiveGame Alpha-0.1.1
 TODO: X-NBA Live Game Comments 
-## Installation
+## Instalacion
 TODO: No sé cómo añadir esta característica sabe, al igual que la instalación enramada o Node.js
 ## Usage
 TODO: Write usage instructions
