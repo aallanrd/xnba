@@ -1,6 +1,8 @@
 [![Stories in Ready](https://badge.waffle.io/devaallanrd/xnba.png?label=ready&title=Ready)](https://waffle.io/devaallanrd/xnba)
 # xnba
 
+[![Join the chat at https://gitter.im/devaallanrd/xnba](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/devaallanrd/xnba?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
   <content><![CDATA[
 # XNBA | LiveGame Alpha-0.1.1
 TODO: X-NBA Live Game Comments 
